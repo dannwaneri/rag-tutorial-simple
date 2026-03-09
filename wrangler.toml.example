@@ -1,0 +1,10 @@
+name = "rag-tutorial-simple"
+main = "src/index.ts"
+compatibility_date = "2026-02-25"
+
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "rag-tutorial-index"
+
+[ai]
+binding = "AI"
